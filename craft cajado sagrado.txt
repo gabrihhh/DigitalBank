@@ -1,0 +1,36 @@
+inicial -> 8.630.000
+
+qts para 1 cajado =>
+
+		16 tabuas
+		8 tecido
+
+
+
+preço tabuas =>
+		4.2 - 1.000
+		5.1 - 1.500
+		4.3 - 6.000
+		5.3 - 22.000
+
+preço tecido =>
+		4.2 - 2.000
+		5.1 - 2.000
+		4.3 - 10.000
+		5.3 - 22.000
+
+quantidade por cajado/ tier =>
+		
+	4.2 ->
+		tabuas 4.2 * 16 = 16.000
+		tecido 4.2 * 8 = 16.000
+		
+		R$ 32.000
+
+	com dinheiro faria 269 cajados
+
+		
+
+
+		256 tabuas
+		128 tecido
